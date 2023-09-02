@@ -1,0 +1,14 @@
+.parent{
+    background-color: rgb(38, 95, 99);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.content{
+    display:flex;
+     justify-content:Space-evenly;
+     margin-top: 30px;
+    
+    }
